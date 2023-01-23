@@ -1,10 +1,10 @@
 language: python
 
 python:
-    - 3.9
+  - 3.9
 
 script:
-    - python _runner_tests.py
+  - python _runner_tests.py
 #   - python contemplate_koans.py                          # Run all the koans
 #   - python contemplate_koans.py about_asserts about_none # Run a subset of
 #                                                          # koans
